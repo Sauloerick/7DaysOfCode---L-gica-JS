@@ -5,7 +5,7 @@ alert(`Vamos começar!\nVocê tem 3 tentativas para tentar adivinhar um número 
 
 do{
     i+=1;
-    var guess = prompt(`Qual número estou pensando?`);
+    var guess = prompt(`Em qual número estou pensando?`);
     if (guess!=num && i<3){
         alert(`Errou! Tente outra vez`);
     } else if(guess==num){
