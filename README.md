@@ -6,7 +6,7 @@ Esse projeto tem como objetivo expor as soluções que eu encontrei para os desa
 | -------------  | --- |
 | :sparkles: Nome        | **Soluções para os desafios da #7DaysOfCode**
 | :label: Tecnologias | java, html
-| :fire: Desafio     | <a href="https://7daysofcode.io/" targer="_blank">7daysofcode.io</a>
+| :fire: Desafio     | <a targer="_blank" href="https://7daysofcode.io/">7daysofcode.io</a>
 
 ![image](https://user-images.githubusercontent.com/21301483/227539281-5a80bce6-d820-4a53-8f33-e9f732a7e9d3.png#vitrinedev)
 
